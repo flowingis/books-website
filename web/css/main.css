@@ -1,0 +1,72 @@
+@import "reset.css";
+
+body{
+    background-color: #ddd;
+    color: #000305;
+    font-size: 87.5%; /* Base font size: 14px */
+    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.429;
+}
+
+#wrapper
+{
+  background-color: #fff;
+  width: 900px;
+  margin: 0px auto;
+  height: 100%;
+}
+
+a{color: #C74451; text-decoration: none;}
+
+.clear{clear: both;}
+.right{text-align: right;}
+
+header{padding: 10px 0;}
+header h1{font-size: 2em; margin-top: 20px;}
+header strong{display: block; font-size: 60%;}
+header nav{margin-top: 30px;}
+ header nav li{display: inline;}
+header .cover img{margin: 5px; padding: 0px;}
+header .cover {float: left; background-color: #ddd; margin: 5px 20px;}
+
+aside{padding: 10px; float: left; width: 260px;margin-left: 15px;}
+ aside ol{list-style-type: decimal; margin-left: 20px;}
+ aside h3{font-size: 1.2em; margin-bottom: 10px;}
+ 
+article h2{font-size: 1.3em; margin-bottom: 10px; border-bottom: 5px solid #ddd;}
+ article h2 a{color: #000305;}
+article p{margin-top: 5px; margin-bottom: 5px;}
+article blockquote{background-color: #fff; padding: 10px; font-style: italic; margin-top: 10px;}
+
+article ul{margin-left: 20px; list-style-type: disc;}
+article.highlight{margin-top: 20px;}
+
+section{padding: 10px; float: left; width: 550px;}
+section#content {margin-top: -50px}
+footer{margin: 30px 10px; border-top: 1px solid #000; text-align: center;}
+
+/* Main Nav */
+nav {
+    background: #ddd;
+    font-size: 1.143em;
+    height: 40px;
+    line-height: 30px;
+}
+
+nav a:link, nav a:visited {
+    color: #000305;
+    font-weight: bold;
+    display: inline-block;
+    height: 30px;
+    padding: 5px 1.5em;
+    text-decoration: none;
+}
+
+nav a:hover, nav a:active,
+nav .active a:link, nav .active a:visited {
+    background: #C74451;
+    color: #fff;
+    text-shadow: none !important;
+}
+
+.clear{ clear: left; }

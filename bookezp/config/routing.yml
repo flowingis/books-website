@@ -1,0 +1,7 @@
+homepage:
+  pattern:  /
+  defaults: { _controller: BookezpBundle:Default:index }
+
+page:
+  pattern:  /:page
+  defaults: { _controller: BookezpBundle:Default:page }

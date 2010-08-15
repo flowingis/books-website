@@ -1,0 +1,65 @@
+@import "reset.css";
+
+body{
+    background-color: #F5F4EF;
+    color: #000305;
+    font-size: 87.5%; /* Base font size: 14px */
+    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.429;
+    width: 900px;
+    margin: 0px auto;
+}
+
+a{color: #C74451; text-decoration: none;}
+
+.clear{clear: both;}
+.right{text-align: right;}
+
+header{padding: 10px;}
+header h1{font-size: 2em; margin-top: 20px;}
+header strong{display: block; font-size: 60%;}
+header nav{margin-top: 30px;}
+ header nav li{display: inline;}
+header .cover img{margin: 10px; padding: 5px;}
+header .cover {float: left; background-color: #000; margin: 0 10px;}
+
+aside{padding: 10px; float: left; width: 300px;}
+ aside ol{list-style-type: decimal; margin-left: 20px;}
+ aside h3{font-size: 1.2em; margin-bottom: 10px;}
+ 
+article h2{font-size: 1.3em; margin-bottom: 10px;}
+ article h2 a{color: #000305;}
+article p{margin-top: 5px; margin-bottom: 5px;}
+article blockquote{background-color: #fff; border: 1px solid #999; padding: 10px; font-style: italic; margin-top: 10px;}
+
+article ul{margin-left: 20px; list-style-type: disc;}
+article.highlight{margin-top: 20px;}
+
+section{padding: 10px; float: left; width: 550px;}
+footer{margin: 30px 10px; border-top: 1px solid #000;}
+
+/* Main Nav */
+nav {
+    background: #000305;
+    font-size: 1.143em;
+    height: 40px;
+    line-height: 30px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+nav a:link, nav a:visited {
+    color: #fff;
+    display: inline-block;
+    height: 30px;
+    padding: 5px 1.5em;
+    text-decoration: none;
+}
+
+nav a:hover, nav a:active,
+nav .active a:link, nav .active a:visited {
+	background: #C74451;
+	color: #fff;
+	text-shadow: none !important;
+}

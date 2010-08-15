@@ -1,0 +1,523 @@
+2010-08-07T14:41:04+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:04+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:04+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:04+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:04+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:04+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:04+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:04+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:04+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:04+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:04+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:04+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:04+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:04+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:04+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:04+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:04+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:04+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:04+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:04+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:05+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:05+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:05+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:05+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:05+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:05+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:05+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:05+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:05+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:05+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:05+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:05+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:05+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:05+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:05+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:05+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:06+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:06+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:06+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:06+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:06+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:06+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:06+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:06+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:06+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:06+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:06+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:06+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:06+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:06+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:06+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:06+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:06+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:06+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:06+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:06+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:07+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:07+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:07+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:07+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:07+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:07+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:07+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:07+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:07+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:07+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:07+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:07+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:07+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:07+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:07+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:07+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:08+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:08+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:08+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'FoundationBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:41:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:41:08+02:00 ERR: The template "index" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:41:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:41:08+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:41:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:41:08+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:42:18+02:00 ERR: Unable to read the profiler information.
+2010-08-07T14:42:18+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:42:18+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:42:18+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:42:18+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:42:18+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:42:18+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:42:18+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:42:18+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:42:18+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:42:18+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:45:37+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:45:37+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:45:37+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:45:37+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:45:37+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:45:37+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:45:37+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/BookezpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:45:37+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:45:37+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:45:37+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:45:37+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:46:36+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:46:36+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:46:36+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:46:36+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:46:36+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:46:36+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:46:36+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:46:36+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:46:36+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:46:36+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:46:36+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:47:11+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:47:11+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:47:11+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:47:11+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:47:11+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:47:11+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:47:11+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:47:11+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:47:11+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:47:11+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:47:11+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:47:46+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:47:46+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:47:46+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:47:46+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:47:46+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:47:46+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:47:46+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:47:46+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:47:46+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:47:46+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:47:46+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:48:42+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:48:42+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:48:42+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:48:42+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:48:42+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:48:42+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:48:42+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:48:42+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:48:42+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:48:42+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:48:42+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:48:45+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:48:45+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:48:45+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:48:45+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:48:45+02:00 ERR: Method "Application\ProPhpBundle\Controller\DefaultController::pageAction" does not exist. (uncaught InvalidArgumentException exception)
+2010-08-07T14:48:45+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:48:45+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:48:45+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:48:45+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:48:45+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:48:45+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:48:45+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:48:45+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:48:57+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:48:57+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:48:57+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:48:57+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:48:57+02:00 ERR: Method "Application\ProPhpBundle\Controller\DefaultController::pageAction" does not exist. (uncaught InvalidArgumentException exception)
+2010-08-07T14:48:57+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:48:57+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:48:57+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:48:57+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:48:57+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:48:57+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:48:57+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:48:57+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:49:39+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:49:39+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:49:39+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:49:39+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:49:39+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:49:39+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/ProPhpBundle/Default/about.php" (renderer: php)
+2010-08-07T14:49:39+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:49:39+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:49:39+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:49:39+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:49:39+02:00 ERR: The template "about" does not exist (renderer: php). (uncaught InvalidArgumentException exception)
+2010-08-07T14:49:39+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:49:39+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:49:39+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:49:39+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:49:39+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:49:39+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:49:39+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:49:39+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:50:08+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:50:08+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:50:08+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:50:08+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:50:08+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:50:08+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:50:08+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:50:08+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:50:08+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:50:08+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:50:08+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:50:10+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:50:10+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:50:10+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:50:10+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:50:10+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:50:10+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:50:10+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:50:10+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:50:10+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:50:10+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:50:10+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:50:11+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:50:11+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'content',  '_route' => 'page',))
+2010-08-07T14:50:11+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:50:11+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:50:11+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:50:11+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/content.php" (renderer: php)
+2010-08-07T14:50:11+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:50:11+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:50:11+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:50:11+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:50:11+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:50:45+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:50:45+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'content',  '_route' => 'page',))
+2010-08-07T14:50:45+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:50:45+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:50:45+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:50:45+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/content.php" (renderer: php)
+2010-08-07T14:50:45+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:50:45+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:50:45+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:50:45+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:50:46+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:50:57+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:50:57+02:00 ERR: No route found for /%7B%7B%20resource.relative_url%20%7D%7D/content
+2010-08-07T14:50:57+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:50:57+02:00 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-07T14:50:57+02:00 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Framework\FoundationBundle\Listener\ExceptionHandler, handle)"
+2010-08-07T14:50:57+02:00 ERR: Unable to find the controller. (uncaught Symfony\Components\HttpKernel\Exception\NotFoundHttpException exception)
+2010-08-07T14:50:57+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:50:57+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:50:57+02:00 INFO: Using controller "Symfony\Framework\FoundationBundle\Controller\ExceptionController::exceptionAction"
+2010-08-07T14:50:57+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:50:57+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/views/FoundationBundle/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:50:57+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:50:57+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Bundle/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:50:57+02:00 INFO: Failed loading template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/vendor/Symfony/src/Symfony/Framework/FoundationBundle/Resources/views/Exception/exception.html.php" (renderer: php)
+2010-08-07T14:53:31+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:53:31+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:53:31+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:53:31+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:53:31+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:53:31+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:53:31+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:53:31+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:53:31+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:53:31+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:53:31+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:53:36+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:53:36+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'content',  '_route' => 'page',))
+2010-08-07T14:53:36+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:53:36+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:53:36+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:53:36+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/content.php" (renderer: php)
+2010-08-07T14:53:36+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:53:36+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:53:36+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:53:36+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:53:36+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:53:41+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:53:41+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:53:41+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:53:41+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:53:41+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:53:41+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:53:41+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:53:41+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:53:41+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:53:41+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:53:41+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:03+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:03+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:54:03+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:03+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:54:03+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:03+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:54:03+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:03+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:03+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:03+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:03+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:16+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:16+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:54:16+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:16+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:54:16+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:16+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:16+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:54:16+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:16+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:54:16+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:16+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:17+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:17+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'content',  '_route' => 'page',))
+2010-08-07T14:54:17+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:17+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:54:17+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:17+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/content.php" (renderer: php)
+2010-08-07T14:54:17+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:17+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:17+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:17+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:17+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:18+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:18+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:54:18+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:18+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:54:18+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:18+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:54:18+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:18+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:18+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:18+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:18+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:19+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:19+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:54:19+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:19+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:54:19+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:19+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:54:19+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:19+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:19+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:19+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:19+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:22+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:22+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:54:22+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:22+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:54:22+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:22+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:54:22+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:22+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:22+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:22+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:22+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:23+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:23+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:54:23+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:23+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:54:23+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:23+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'content',  '_route' => 'page',))
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:23+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:54:23+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:23+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/content.php" (renderer: php)
+2010-08-07T14:54:23+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:23+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:24+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:24+02:00 INFO: Matched route "page" (parameters: array (  '_controller' => 'ProPhpBundle:Default:page',  'page' => 'about',  '_route' => 'page',))
+2010-08-07T14:54:24+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:24+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::pageAction"
+2010-08-07T14:54:24+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:24+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/about.php" (renderer: php)
+2010-08-07T14:54:24+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:24+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:24+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:24+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:24+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
+2010-08-07T14:54:25+02:00 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Framework\FoundationBundle\Listener\RequestParser, resolve)"
+2010-08-07T14:54:25+02:00 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'ProPhpBundle:Default:index',  '_route' => 'homepage',))
+2010-08-07T14:54:25+02:00 DEBUG: Notifying (until) event "core.load_controller" to listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)"
+2010-08-07T14:54:25+02:00 INFO: Using controller "Application\ProPhpBundle\Controller\DefaultController::indexAction"
+2010-08-07T14:54:25+02:00 DEBUG: Listener "(Symfony\Framework\FoundationBundle\Listener\ControllerLoader, resolve)" processed the event "core.load_controller"
+2010-08-07T14:54:25+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-07T14:54:25+02:00 INFO: Loaded template file "/Applications/MAMP/htdocs/sandbox/prophp/../src/Application/ProPhpBundle/Resources/views//layout.php" (renderer: php)
+2010-08-07T14:54:25+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\EsiFilter, filter)"
+2010-08-07T14:54:25+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\ResponseFilter, filter)"
+2010-08-07T14:54:25+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\Profiling, handle)"
+2010-08-07T14:54:25+02:00 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Components\HttpKernel\Listener\WebDebugToolbar, handle)"
